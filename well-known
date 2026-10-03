@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.kabwey.agash",
+        "sha256_cert_fingerprints": ["BB:A2:6E:21:23:AA:AF:51:F8:89:62:DC:C8:22:79:2B:94:B6:4B:C4:99:E7:7F:DE:42:A9:CF:06:93:CC:A4:C5"]
+      }
+    }]
