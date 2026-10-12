@@ -6,3 +6,11 @@
         "sha256_cert_fingerprints": ["BB:A2:6E:21:23:AA:AF:51:F8:89:62:DC:C8:22:79:2B:94:B6:4B:C4:99:E7:7F:DE:42:A9:CF:06:93:CC:A4:C5"]
       }
     }]
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.kabweynew.englishacademy",
+        "sha256_cert_fingerprints": ["06:81:C2:A6:5A:D2:E0:7F:13:9F:2D:51:A4:92:68:B4:69:E7:46:AF:CE:9B:4A:93:C0:24:69:ED:72:16:EA:5F"]
+      }
+    }]
